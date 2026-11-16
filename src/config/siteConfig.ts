@@ -1,0 +1,20 @@
+export const siteConfig = {
+  title: "hazeL",
+  description: "just normal person gng",
+  profileImage: "/profile.jpg?v=2",
+  discordServer: "https://discord.gg/xj8SZc35Ek",
+  discordServerName: "Santuy Network",
+  discordServerIcon: "https://cdn.discordapp.com/icons/945483893233033266/9ef5e586cfd5da5de1918a58078a6e5c.png",
+  sociabuzz: "https://sociabuzz.com/hazel67/tribe",
+  whatsAppChannel: "https://whatsapp.com/channel/0029VbCc1TPLY6d3GnOZLW2o",
+  socials: [
+    { label: "YT", href: "https://www.youtube.com/@yannexdi", icon: "FaYoutube", color: "#FF0000", enabled: true },
+    { label: "IG", href: "https://www.instagram.com/ynnn.diumsum", icon: "FaInstagram", color: "#E4405F", enabled: true },
+    { label: "TT", href: "https://www.tiktok.com/@ynnnsigma67", icon: "FaTiktok", color: "#ffffff", enabled: true },
+    { label: "DS", href: "https://discord.gg/xj8SZc35Ek", icon: "FaDiscord", color: "#5865F2", enabled: false },
+    { label: "FB", href: "", icon: "FaFacebook", color: "#1877F2", enabled: true },
+    { label: "SP", href: "https://open.spotify.com/user/q782s8vqd5yrlpwkjj887yu2y", icon: "FaSpotify", color: "#1DB954", enabled: false },
+    { label: "GH", href: "https://github.com/yann1945", icon: "FaGithub", color: "#ffffff", enabled: false },
+    { label: "ST", href: "https://steamcommunity.com/id/itsh4zel/", icon: "FaSteam", color: "#66c0f4", enabled: false },
+  ],
+};
